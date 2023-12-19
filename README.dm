@@ -1,1 +1,1 @@
-![Calculator](https://github.com/Medlan-el/Calculator-App/blob/main/Screenshot_20231218_211642.png "Calculator-App")
+![Calculator](Screenshot_20231218_211642.png "Calculator-App")
