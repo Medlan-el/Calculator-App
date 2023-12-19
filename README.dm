@@ -1,4 +1,2 @@
-<div style="display:flex;">
-<img alt="App image" src="img/Screenshot_20231218_211642.png" width="30%">
-<img alt="App image" src="img/Screenshot_20231218_211642.png" width="30%">
-</div>
+<img src="img/Screenshot_20231218_211642.png" width="15%"/>
+<img src="img/Screenshot_20231218_211642.png" width="15%"/>
