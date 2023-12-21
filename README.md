@@ -1,3 +1,4 @@
-### [![MasterHead](https://github.com/Medlan-el/Calculator-App/blob/main/img/Screenshot1.jpeg)](https://github.com/Uyama0)
-
-#
+<div style="display:flex;">
+<img alt="App image" src="https://github.com/Medlan-el/Calculator-App/blob/main/img/Screenshot1.jpeg" width="30%">
+<img alt="App image" src="https://github.com/Medlan-el/Calculator-App/blob/main/img/Screenshot2.jpeg" width="30%">
+</div>
